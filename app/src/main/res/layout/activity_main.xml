@@ -79,6 +79,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/others"
         android:layout_above="@id/socialicons"
+        android:textColor="@color/white"
         android:text="or sign in with"
         android:layout_centerHorizontal="true"/>
 
